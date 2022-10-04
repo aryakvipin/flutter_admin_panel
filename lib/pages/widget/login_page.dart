@@ -33,7 +33,7 @@ class MyLogin extends StatelessWidget {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Image.asset("omnific.jpeg",height:100,width: 100,),
+                Image.asset("assets/omnific.jpeg",height:100,width: 100,),
                 const Center(
                     child: Text("Login Page",
                         style: TextStyle(fontSize: 30, color: Colors.orangeAccent)
